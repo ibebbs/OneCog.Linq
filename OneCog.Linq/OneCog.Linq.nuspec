@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OneCog.Linq</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>ibebbs</authors>
+    <owners>OneCog Solutions</owners>
+    <licenseUrl>https://github.com/ibebbs/OneCog.Linq/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ibebbs/OneCog.Linq</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Common LINQ extensions</description>
+    <copyright>Copyright 2014</copyright>
+    <tags>LINQ</tags>
+  </metadata>
+</package>
